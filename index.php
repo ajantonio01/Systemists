@@ -21,8 +21,7 @@
   </div>
 </div>
 
-
-<script src="bootstrap.min.js"></script>
 <script src="jquery.slim.min.js"></script>
+<script src="bootstrap.min.js"></script>
 </body>
 </html>

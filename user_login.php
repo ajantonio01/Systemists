@@ -12,7 +12,7 @@
 
 <body>
 
-<div class="loginbox container-fluid">
+<div class="loginbox w3-container">
     <h3>Reservation Management System</h3>
     <p id="detail"><i>Reserve your rooms here</i></p>
     <form>
@@ -31,7 +31,7 @@
         location.href="index.php";
     };
     </script>
+    <script src="jquery.slim.min.js"></script>
 <script src="bootstrap.min.js"></script>
-<script src="jquery.slim.min.js"></script>
 </body>
     </html>
